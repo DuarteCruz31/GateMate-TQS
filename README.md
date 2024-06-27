@@ -38,9 +38,9 @@ The documentation for this project is available at the docs folder.
 
 ## Autores
 
-| NMec | Name | Email | Roles |
-|--:|---|---|---|
-| 107637| André Oliveira| andreaoliveira@ua.pt| Team Manager |
-| 107359| Duarte Cruz | duarteccruz@ua.pt | DevOps |
-| 108624| Tomás Matos | tomas.matos@ua.pt| Product Owner |
-| 108902| Diogo Almeida | almeidadiogo03@ua.pt | QA Engineer |
+ Name | Email | Roles |
+|---|---|---|
+| André Oliveira| andreaoliveira@ua.pt| Team Manager |
+| Duarte Cruz | duarteccruz@ua.pt | DevOps |
+| Tomás Matos | tomas.matos@ua.pt| Product Owner |
+| Diogo Almeida | almeidadiogo03@ua.pt | QA Engineer |
